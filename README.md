@@ -1,8 +1,10 @@
 # CatOS
 _A new revolutionary operating system developed by Plasma!_
 
+[logo](https://raw.githubusercontent.com/gabmeow/Test/main/catos.png)
+
 # LINKS
-_!(Plasma Discord Server)[https://discord.com/92RFjFyFHH]_
+_[Plasma Discord Server](https://discord.com/92RFjFyFHH)_
 
 # RELEASE DATE
 
