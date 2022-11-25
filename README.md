@@ -7,7 +7,7 @@ _A new revolutionary operating system developed by Plasma!_
 _[Plasma Discord Server](https://discord.com/92RFjFyFHH)_
 
 # PREVIEW
-![prev]([https://](https://raw.githubusercontent.com/gabmeow/Test/main/image.png)
+![prev](https://raw.githubusercontent.com/gabmeow/Test/main/image.png)
 
 # RELEASE DATE
 
